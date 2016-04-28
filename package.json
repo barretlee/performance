@@ -1,0 +1,26 @@
+{
+  "name": "performance",
+  "version": "0.0.1",
+  "description": "A simple Javascript Performance Tester.",
+  "main": "performance.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barretlee/performance.git"
+  },
+  "keywords": [
+    "performance",
+    "tester"
+  ],
+  "author": "Barret Lee <barret.china@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barretlee/performance/issues"
+  },
+  "homepage": "https://github.com/barretlee/performance#readme"
+}
