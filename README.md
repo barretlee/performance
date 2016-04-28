@@ -4,7 +4,7 @@ A simple Javascript Performance Tester.
 
 ![](https://img.alicdn.com/tps/TB1d238JpXXXXcoXFXXXXXXXXXX-446-570.gif)
 
-Live Demo: <https://barretlee.github.io/performance/>
+Live Demo: <https://barretlee.github.io/performance/test/>
 
 
 ## Run Demo
