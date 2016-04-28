@@ -7,7 +7,7 @@ void function(win, undefined){
   function Performance(options) {
     options = options || {};
     this.query = options.query || 'button';
-    this.info = options.info || 'Click the code button, run tester.';
+    this.info = options.info || 'Click the code button, run tester, and see console.';
     this.timeout = options.timeout || 1e3;
     this.running = false;
     this.eleQuery = $(this.query);
